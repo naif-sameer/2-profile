@@ -1,6 +1,6 @@
 body {
   background-color: var(--secondary);
-  --primary: #1f2937;
+  --primary: #1f2937; 
   --secondary: hsl(33, 94%, 94%);
   --third: #e91e63;
   --primary-gradient: linear-gradient(324deg, #f44336, #e91e63, #9c27b0);
